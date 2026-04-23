@@ -1,1 +1,3 @@
-# Apocalypse-Survival-Game-System
+Apocalypse Survival Game System is a game framework designed for building immersive survival experiences set in a post-apocalyptic world. The system focuses on core survival mechanics such as resource management, player progression, and dynamic gameplay interactions inspired by typical survival titles where players must scavenge, craft, and endure hostile environments .
+
+This project provides a foundation for developing survival-based games, featuring modular systems that can be extended to include elements like combat, exploration, inventory systems, and AI-driven threats. It is intended for developers who want to create customizable and scalable survival gameplay mechanics.
